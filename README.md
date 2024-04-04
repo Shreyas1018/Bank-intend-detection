@@ -15,7 +15,7 @@ The Bank Dataset (Provide more details if possible: source, size, structure).
 - User Information related issue
 -  Debit/Credit card related issues
 -   Transaction related issues
--   
+  
 # Data Preprocessing: Text cleaning, tokenization, and encoding.
 LSTM Model Development: Building an LSTM architecture for sequence classification.<br>
 Training and Evaluation: Training the model on the Bank Dataset, using accuracy and relevant metrics for evaluation.<br>
