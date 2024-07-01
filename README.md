@@ -10,7 +10,7 @@ Customer service in banking often involves handling a wide variety of inquiries,
 Automating intent detection can streamline inquiries, ensuring customers are connected to the right resources quickly.
 # Dataset:
 
-The Bank Dataset (Provide more details if possible: source, size, structure).
+The Bank Dataset 
 # Intent Classes:
 - User Information related issue
 -  Debit/Credit card related issues
